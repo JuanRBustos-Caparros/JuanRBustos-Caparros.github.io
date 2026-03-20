@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "default"y windows?
 title                    : "Juan R. Bustos-Caparros"
 title_separator          : "-"
 name                     : &name "Juan R. Bustos-Caparros"
@@ -11,7 +11,7 @@ repository               : "JuanRBustos-Caparros/JuanRBustos-Caparros.github.io"
 
 # Site Author
 author:
-  avatar           : "/images/img01.jpg"
+  avatar           : "/images/img01.JPG"
   name             : "Juan R. Bustos-Caparros"
   pronouns         : "he/his"  
   bio              : "PhD Student at SpecLab-CSIC - MOMENTUM-CSIC"
