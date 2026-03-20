@@ -11,7 +11,7 @@ repository               : "JuanRBustos-Caparros/JuanRBustos-Caparros.github.io"
 
 # Site Author
 author:
-  avatar           : "/images/img01.png"
+  avatar           : "images/img01.png"
   name             : "Juan R. Bustos-Caparros"
   pronouns         : "he/his"  
   bio              : "PhD Student at SpecLab-CSIC - MOMENTUM-CSIC"
