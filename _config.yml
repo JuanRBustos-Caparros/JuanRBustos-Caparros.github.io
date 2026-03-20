@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"y windows?
+site_theme               : "default"
 title                    : "Juan R. Bustos-Caparros"
 title_separator          : "-"
 name                     : &name "Juan R. Bustos-Caparros"
