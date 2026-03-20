@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Flood susceptible analysis of a DANA event to estimate environmental affections in the Campo de Cartagena (SE of Spain)<br />2nd Young Soil Researchers Forum; Online",
+    43.5904719,
+    3.8595132
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Hydrosedimentary response and suspended sediment fingerprinting source ascription during storm Juliette in a small Mediterranean agroforestry catchment<br />19th Biennial Conference of the Euromediterranean Network of Experimental and Representative Basins (ERB 2024); Inca, Mallorca, Spain",
+    39.720917,
+    2.9937949
   ]
 ];
